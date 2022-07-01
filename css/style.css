@@ -1,0 +1,17 @@
+.divider{
+  background-image: url("../img/hr-img.png");
+  background-repeat: repeat;
+  min-height: 10px;
+  width: 100%;
+}
+#recipe{
+  display:flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  height: 305px;
+  width: 899px;
+  background-image: url("../img/list-bg.png");
+}li{
+  height: 30px;
+}
